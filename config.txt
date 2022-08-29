@@ -1,0 +1,29 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx65eeafef348a64c4",
+# 公众号appSecret
+"app_secret": "e021561b43c0cf191fe1331f86cb117f",
+# 模板消息id
+"template_id": "zW7Ce2Kba8_0RLux41-yDz4E5JqvqDP14J8KMzAqTY8",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oCC0I6hLLIBYmUdSDWHYTCaxWOTM","oCC0I6iDK7DfZJQM0TGCoao_2zSU"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "da9430a02ec44411babf7376f67833a6",
+# 天行数据apikey
+"tian_api": "6096f5dfe4429e09a8bccbe8e6b3b7b9",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "云龙区",
+# 生日1
+"birthday1": {"name": "徐大帅", "birthday": "2002-12-14"},
+# 生日2
+"birthday2": {"name": "王小帅", "birthday": "r2001-05-28"},
+# 在一起的日子，格式同上
+"love_date": "2021-11-30",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "喜欢只是开始，爱你永远不会结束",
+# 金句英文
+"note_en": "Love is only the beginning，love you will never end"
+}
